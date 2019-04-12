@@ -41,7 +41,7 @@ class Candidate
     int64_t       end;
     unsigned      nbeams;
     /*unsigned      beam_mask;*/
-    uint64_t      beam_mask    
+    uint64_t      beam_mask;
     unsigned int  primary_beam;
     float         max_snr;
     unsigned int  beam;
